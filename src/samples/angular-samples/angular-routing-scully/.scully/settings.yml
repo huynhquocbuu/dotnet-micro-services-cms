@@ -1,0 +1,13 @@
+identifier: l8m1p4u3c033va93
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-routing-scully
+homeFolder: >-
+  E:\PrivatePlace\Learning\FullStack\dotnet-micro-services-cms\src\samples\angular-samples\angular-routing-scully
+distFolder: dist/angular-routing-scully
+outDir: >-
+  E:\PrivatePlace\Learning\FullStack\dotnet-micro-services-cms\src\samples\angular-samples\angular-routing-scully\dist\static
+handle404: ''
+allowErrorCollect: false
